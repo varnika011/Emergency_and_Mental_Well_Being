@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+
+# Java
+target/
+*.class
+*.jar
+*.war
+*.log
+
+# IDE-specific files
+.idea/
+.vscode/
